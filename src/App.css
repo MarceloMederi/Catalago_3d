@@ -1,0 +1,11 @@
+/* src/App.css */
+.catalog {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px; /* Adiciona espaçamento entre os itens */
+}
+
+.catalog-item {
+  width: 30%; /* Defina a largura como desejar */
+  text-align: center; /* Centraliza o texto */
+}
